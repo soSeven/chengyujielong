@@ -53,3 +53,5 @@ git clone & pod install
   pod 'KTCenterFlowLayout'
 ```
 
+## Liscense
+MIT
