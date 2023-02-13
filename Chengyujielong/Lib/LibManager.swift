@@ -32,7 +32,7 @@ class LibManager: NSObject {
     }
     
 //    private func setupBUAdSDK() {
-//        BUAdSDKManager.setAppID("5109137")
+//        BUAdSDKManager.setAppID("xxx")
 //        if AppDefine.isDebug {
 //            BUAdSDKManager.setLoglevel(.debug)
 //        }
@@ -48,14 +48,14 @@ class LibManager: NSObject {
 //    }
 //
 //    private func setupGDAdSDK() {
-//        GDTSDKConfig.registerAppId("1110965636")
+//        GDTSDKConfig.registerAppId("xxx")
 //        GDTSDKConfig.setChannel(14)
 //    }
     
     private func setupUMSDK(channel: String) {
-        let umAppkey = "5f6dac5880455950e4977123"
-        let wechatAppkey = "wx17c2e0b58cb23307"
-        let wechatAppSecret = "84570326699ee53f40d54af98ec42c01"
+        let umAppkey = "xx"
+        let wechatAppkey = "xxx"
+        let wechatAppSecret = "xxx"
         
         UMCommonLogManager.setUp()
         if AppDefine.isDebug {
