@@ -1,4 +1,6 @@
 # chengyujielong
 一个成语接龙游戏
 
-![](demo.gif)
+
+
+<img src="demo.gif" height="400px" >
