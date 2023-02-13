@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FE8CA7442505DF34003F595E"
+               BuildableName = "&#25104;&#35821;&#22823;&#31070;.app"
+               BlueprintName = "Chengyujielong"
+               ReferencedContainer = "container:Chengyujielong.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "FE8CA7442505DF34003F595E"
+            BuildableName = "&#25104;&#35821;&#22823;&#31070;.app"
+            BlueprintName = "Chengyujielong"
+            ReferencedContainer = "container:Chengyujielong.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>

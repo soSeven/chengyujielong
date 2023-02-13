@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1F194D9E-E5EC-4769-94E7-C2875C09C15E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D0DE5A3-1999-4CF7-B5E3-6B5D19BB89DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chengyujielong/Pop/Lottery/LotteryPopView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D0DE5A3-1999-4CF7-B5E3-6B5D19BB89DB - a412e96f7fec8bdc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #7 (Swift.Optional&lt;&#x6210;&#x8bed;&#x5927;&#x795e;.LotteryModel&gt;) -&gt; () in &#x6210;&#x8bed;&#x5927;&#x795e;.LotteryPopView.init() -&gt; &#x6210;&#x8bed;&#x5927;&#x795e;.LotteryPopView"
+                  moduleName = "&#x6210;&#x8bed;&#x5927;&#x795e;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/7x/Desktop/qiReProject/chengyujielong/Chengyujielong/Pop/Lottery/LotteryPopView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "2D0DE5A3-1999-4CF7-B5E3-6B5D19BB89DB - a412e96f7fec8bdc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #7 (Swift.Optional&lt;&#x6210;&#x8bed;&#x5927;&#x795e;.LotteryModel&gt;) -&gt; () in &#x6210;&#x8bed;&#x5927;&#x795e;.LotteryPopView.init() -&gt; &#x6210;&#x8bed;&#x5927;&#x795e;.LotteryPopView"
+                  moduleName = "&#x6210;&#x8bed;&#x5927;&#x795e;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/7x/Desktop/qiReProject/chengyujielong/Chengyujielong/Pop/Lottery/LotteryPopView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "2D0DE5A3-1999-4CF7-B5E3-6B5D19BB89DB - a412e96f7fec8bdc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #7 (Swift.Optional&lt;&#x6210;&#x8bed;&#x5927;&#x795e;.LotteryModel&gt;) -&gt; () in &#x6210;&#x8bed;&#x5927;&#x795e;.LotteryPopView.init() -&gt; &#x6210;&#x8bed;&#x5927;&#x795e;.LotteryPopView"
+                  moduleName = "&#x6210;&#x8bed;&#x5927;&#x795e;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/7x/Desktop/qiReProject/chengyujielong/Chengyujielong/Pop/Lottery/LotteryPopView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "1044">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF83A22B-FE02-4BFA-8E19-F5AA47CBB86F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chengyujielong/ViewModel/LotteryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "transform(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A96D8AAB-33A8-47A5-979A-8EFF32171B7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chengyujielong/ViewModel/LotteryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "transform(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19057D51-BBCF-48E6-A5A4-98AB54BDD1ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chengyujielong/ViewModel/LotteryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "transform(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4D9B6EE-137C-4A1E-A1F0-A65131D0F06E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chengyujielong/ViewModel/LotteryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "transform(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAA7D13D-0DED-478A-915B-A87FAF62C37D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chengyujielong/ViewModel/LotteryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "transform(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "789A8002-3523-427A-A87A-A0FBEA42F1A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chengyujielong/UI/Home/Controller/GetCashViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "375"
+            endingLineNumber = "375"
+            landmarkName = "setupBinding()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
