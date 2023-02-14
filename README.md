@@ -1,6 +1,6 @@
 # 成语接龙游戏
 
-基于`Swift`语言，架构为`MVVM`，采用主要第三方库为 `RxSwift` + `Swinject` + `Moya`
+成语接龙游戏, 基于`Swift`语言，架构为`MVVM`，采用主要第三方库为 `RxSwift` + `Swinject` + `Moya`
 
 
 
